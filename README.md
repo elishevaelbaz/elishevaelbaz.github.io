@@ -1,6 +1,6 @@
 # Portfolio
 
-View my portfolio here [here](https://elishevaelbaz.github.io/).
+View my portfolio [here](https://elishevaelbaz.github.io/).
 
 
 ## Copyright and License
